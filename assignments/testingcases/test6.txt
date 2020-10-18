@@ -1,0 +1,8 @@
+Testing Case 6:
+
+> ./myprogram hahahaha
+
+Output:
+
+> ./myprogram -i | -r
+

@@ -1,0 +1,10 @@
+Testing Case 5:
+
+> ./myprogram -i
+
+Enter the number of machines in stage 1: 5
+Enter the number of jobs: ???
+
+Output:
+
+Error in reading the instance!

@@ -1,0 +1,590 @@
+
+==========
+Student: Andreea Muresan
+Grader: Parnian Yousefi
+Following are the results of testing your code:
+==========
+
+=======
+Test 1
+
+
+Your output / Expected output 
+---------
+Enter the number of machines in the in stage 1: Enter the numbe |  #instances5_10_1.txt
+#instance5_10_1.txt                                             |  #number of stage 1 machines
+#number of machines in stage 1:                                 <
+5                                                                  5
+#number of jobs:                                                   #number of jobs
+10                                                                 10
+#job processing times:                                             #job processing times
+6 26 24                                                            6 26 24
+3 22 18                                                            3 22 18
+2 22 12                                                            2 22 12
+17 27 10                                                           17 27 10
+28 27 15                                                           28 27 15
+10 10 19                                                           10 10 19
+24 27 31                                                           24 27 31
+17 9 1                                                             17 9 1
+19 6 5                                                             19 6 5
+26 17 3                                                            26 17 3
+#end of instance                                                   #end of instance
+                                                                (
+
+
+
+Test 1 grade: 1
+=======
+
+
+=======
+Test 2
+
+
+Your output / Expected output 
+---------
+Enter the number of machines in the in stage 1: Enter the numbe |  #instances20_50_1.txt
+#instance20_50_1.txt                                            |  #number of stage 1 machines
+#number of machines in stage 1:                                 <
+20                                                                 20
+#number of jobs:                                                   #number of jobs
+50                                                                 50
+#job processing times:                                             #job processing times
+77 35 78                                                           77 35 78
+84 86 81                                                           84 86 81
+25 45 54                                                           25 45 54
+38 73 18                                                           38 73 18
+88 72 64                                                           88 72 64
+30 35 17                                                           30 35 17
+98 38 7                                                            98 38 7
+74 46 57                                                           74 46 57
+5 43 79                                                            5 43 79
+28 72 89                                                           28 72 89
+53 39 78                                                           53 39 78
+56 18 10                                                           56 18 10
+20 20 19                                                           20 20 19
+58 74 12                                                           58 74 12
+65 46 66                                                           65 46 66
+30 93 41                                                           30 93 41
+52 86 18                                                           52 86 18
+93 53 56                                                           93 53 56
+56 24 40                                                           56 24 40
+36 49 50                                                           36 49 50
+35 53 28                                                           35 53 28
+9 99 74                                                            9 99 74
+19 64 97                                                           19 64 97
+80 14 98                                                           80 14 98
+26 17 16                                                           26 17 16
+59 69 46                                                           59 69 46
+6 57 25                                                            6 57 25
+89 28 5                                                            89 28 5
+21 96 7                                                            21 96 7
+63 46 88                                                           63 46 88
+94 81 42                                                           94 81 42
+89 43 90                                                           89 43 90
+71 79 3                                                            71 79 3
+82 67 46                                                           82 67 46
+12 69 93                                                           12 69 93
+54 65 91                                                           54 65 91
+49 13 60                                                           49 13 60
+12 42 34                                                           12 42 34
+13 15 80                                                           13 15 80
+53 81 9                                                            53 81 9
+1 56 61                                                            1 56 61
+56 89 1                                                            56 89 1
+51 17 56                                                           51 17 56
+52 26 62                                                           52 26 62
+14 47 65                                                           14 47 65
+64 55 62                                                           64 55 62
+79 21 81                                                           79 21 81
+25 24 25                                                           25 24 25
+29 57 60                                                           29 57 60
+23 99 44                                                           23 99 44
+#end of instance                                                   #end of instance
+                                                                (
+
+
+
+Test 2 grade: 1
+=======
+
+
+=======
+Test 3
+
+
+Your output / Expected output 
+---------
+Enter the number of machines in the in stage 1: Enter the numbe |  Error in reading the instance!
+                                                                >
+
+
+
+Test 3 grade: 0.5
+=======
+
+
+=======
+Test 4
+
+
+Your output / Expected output 
+---------
+Enter the number of machines in the in stage 1: Error in readin |  Error in reading the instance!
+                                                                >
+
+
+
+Test 4 grade: 0.5
+=======
+
+
+=======
+Test 5
+
+
+Your output / Expected output 
+---------
+Enter the number of machines in the in stage 1: Enter the numbe |  Error in reading the instance!
+                                                                >
+
+
+
+Test 5 grade: 0.5
+=======
+
+
+=======
+Test 6
+
+
+Your output / Expected output 
+---------
+>instance_gen -i | -r                                           |   ./myprogram -i | -r
+                                                                >
+                                                                >
+
+
+
+Test 6 grade: 1
+=======
+
+
+=======
+Test 7
+
+
+Your output  
+---------
+Generating random instances ...                                 <
+Enter the number of machines in stage 1: Enter the number of jo <
+#instance3_10_1.txt                                             <
+#number of machines in stage 1:                                 <
+3                                                               <
+#number of jobs:                                                <
+10                                                              <
+#job processing times:                                          <
+2 7 4                                                           <
+1 5 8                                                           <
+9 3 1                                                           <
+8 5 5                                                           <
+3 10 1                                                          <
+5 7 5                                                           <
+7 6 4                                                           <
+4 4 5                                                           <
+1 9 5                                                           <
+9 5 7                                                           <
+#end of instance                                                <
+                                                                <
+#instance3_10_2.txt                                             <
+#number of machines in stage 1:                                 <
+3                                                               <
+#number of jobs:                                                <
+10                                                              <
+#job processing times:                                          <
+3 1 7                                                           <
+2 2 5                                                           <
+7 1 10                                                          <
+10 3 6                                                          <
+5 10 6                                                          <
+7 1 2                                                           <
+1 4 4                                                           <
+8 1 3                                                           <
+5 5 1                                                           <
+10 6 1                                                          <
+#end of instance                                                <
+                                                                <
+#instance3_10_3.txt                                             <
+#number of machines in stage 1:                                 <
+3                                                               <
+#number of jobs:                                                <
+10                                                              <
+#job processing times:                                          <
+7 10 10                                                         <
+7 9 2                                                           <
+3 3 7                                                           <
+10 1 5                                                          <
+1 2 3                                                           <
+7 9 9                                                           <
+2 4 10                                                          <
+7 2 6                                                           <
+6 2 6                                                           <
+1 6 8                                                           <
+#end of instance                                                <
+                                                                <
+#instance3_10_4.txt                                             <
+#number of machines in stage 1:                                 <
+3                                                               <
+#number of jobs:                                                <
+10                                                              <
+#job processing times:                                          <
+9 3 4                                                           <
+3 3 6                                                           <
+5 1 6                                                           <
+4 9 3                                                           <
+4 3 2                                                           <
+4 1 3                                                           <
+5 6 2                                                           <
+2 10 7                                                          <
+3 7 1                                                           <
+1 8 9                                                           <
+#end of instance                                                <
+                                                                <
+
+
+
+Test 7 grade: 1
+=======
+
+
+=======
+Test 8
+
+
+Your output  
+---------
+Generating random instances ...                                 <
+Enter the number of machines in stage 1: Enter the number of jo <
+#instance7_5_1.txt                                              <
+#number of machines in stage 1:                                 <
+7                                                               <
+#number of jobs:                                                <
+5                                                               <
+#job processing times:                                          <
+30 3 2                                                          <
+17 9 12                                                         <
+27 29 1                                                         <
+32 13 19                                                        <
+25 20 23                                                        <
+#end of instance                                                <
+                                                                <
+
+
+
+Test 8 grade: 0.5
+=======
+
+
+=======
+Test 9
+
+
+Your output  
+---------
+Generating random instances ...                                 <
+Enter the number of machines in stage 1: Enter the number of jo <
+#instance2_20_1.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+115 165 145                                                     <
+102 100 200                                                     <
+132 164 110                                                     <
+197 100 102                                                     <
+151 109 155                                                     <
+121 193 200                                                     <
+198 138 177                                                     <
+200 120 152                                                     <
+109 178 141                                                     <
+165 171 151                                                     <
+197 124 163                                                     <
+193 146 195                                                     <
+148 161 144                                                     <
+109 147 198                                                     <
+105 124 133                                                     <
+148 114 173                                                     <
+195 113 133                                                     <
+156 104 147                                                     <
+137 148 161                                                     <
+195 144 107                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_2.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+169 114 105                                                     <
+104 137 160                                                     <
+116 149 120                                                     <
+188 135 167                                                     <
+149 129 168                                                     <
+119 138 171                                                     <
+181 192 164                                                     <
+132 100 147                                                     <
+110 184 159                                                     <
+198 119 195                                                     <
+124 106 106                                                     <
+183 126 182                                                     <
+185 168 160                                                     <
+191 127 165                                                     <
+175 146 101                                                     <
+130 195 182                                                     <
+189 103 135                                                     <
+190 146 195                                                     <
+108 112 138                                                     <
+109 131 104                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_3.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+190 189 127                                                     <
+102 174 102                                                     <
+119 133 116                                                     <
+125 158 170                                                     <
+139 182 137                                                     <
+178 186 103                                                     <
+172 112 192                                                     <
+172 168 178                                                     <
+105 139 100                                                     <
+111 176 160                                                     <
+156 131 171                                                     <
+165 101 178                                                     <
+181 115 100                                                     <
+169 136 192                                                     <
+166 129 166                                                     <
+108 144 122                                                     <
+112 161 156                                                     <
+138 152 119                                                     <
+170 186 123                                                     <
+187 196 137                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_4.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+104 147 176                                                     <
+139 173 180                                                     <
+118 166 157                                                     <
+141 145 154                                                     <
+151 112 132                                                     <
+145 183 177                                                     <
+118 108 139                                                     <
+117 135 190                                                     <
+122 178 114                                                     <
+133 155 145                                                     <
+104 104 193                                                     <
+123 105 142                                                     <
+181 179 189                                                     <
+190 107 112                                                     <
+107 129 125                                                     <
+174 166 171                                                     <
+136 124 108                                                     <
+113 145 179                                                     <
+163 188 139                                                     <
+137 197 104                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_5.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+150 186 183                                                     <
+141 112 191                                                     <
+118 138 104                                                     <
+154 146 139                                                     <
+111 159 165                                                     <
+195 108 168                                                     <
+182 105 139                                                     <
+169 111 122                                                     <
+129 120 159                                                     <
+189 179 136                                                     <
+122 105 169                                                     <
+111 101 156                                                     <
+116 180 119                                                     <
+126 156 182                                                     <
+124 164 139                                                     <
+166 104 128                                                     <
+164 104 158                                                     <
+145 117 103                                                     <
+131 144 112                                                     <
+162 138 149                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_6.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+142 109 140                                                     <
+167 118 155                                                     <
+177 183 112                                                     <
+198 165 172                                                     <
+167 181 197                                                     <
+155 144 113                                                     <
+104 103 111                                                     <
+177 105 132                                                     <
+119 159 199                                                     <
+147 102 137                                                     <
+172 192 122                                                     <
+114 128 181                                                     <
+132 115 146                                                     <
+101 196 117                                                     <
+120 147 124                                                     <
+171 171 150                                                     <
+143 117 167                                                     <
+149 200 118                                                     <
+130 108 156                                                     <
+198 102 154                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_7.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+189 165 122                                                     <
+137 146 186                                                     <
+107 135 130                                                     <
+110 158 181                                                     <
+180 101 130                                                     <
+114 145 104                                                     <
+129 104 182                                                     <
+102 121 191                                                     <
+173 116 193                                                     <
+181 178 146                                                     <
+123 198 184                                                     <
+148 148 156                                                     <
+107 117 105                                                     <
+198 141 184                                                     <
+187 101 131                                                     <
+171 117 129                                                     <
+104 188 164                                                     <
+178 192 153                                                     <
+182 171 192                                                     <
+193 164 156                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_8.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+136 119 127                                                     <
+127 185 112                                                     <
+138 129 147                                                     <
+124 110 112                                                     <
+125 181 195                                                     <
+196 106 116                                                     <
+176 189 185                                                     <
+159 176 102                                                     <
+134 107 196                                                     <
+145 159 191                                                     <
+168 126 163                                                     <
+127 123 127                                                     <
+198 121 119                                                     <
+191 149 187                                                     <
+185 147 175                                                     <
+135 196 102                                                     <
+126 198 159                                                     <
+138 199 107                                                     <
+108 199 107                                                     <
+132 146 194                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_9.txt                                             <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+174 172 136                                                     <
+167 104 118                                                     <
+172 101 175                                                     <
+106 171 122                                                     <
+168 153 120                                                     <
+184 145 195                                                     <
+180 150 108                                                     <
+188 167 193                                                     <
+188 100 178                                                     <
+172 188 161                                                     <
+112 179 160                                                     <
+174 100 107                                                     <
+114 153 124                                                     <
+171 172 141                                                     <
+111 166 106                                                     <
+103 107 120                                                     <
+110 150 158                                                     <
+140 117 127                                                     <
+159 149 179                                                     <
+176 108 193                                                     <
+#end of instance                                                <
+                                                                <
+#instance2_20_10.txt                                            <
+#number of machines in stage 1:                                 <
+2                                                               <
+#number of jobs:                                                <
+20                                                              <
+#job processing times:                                          <
+117 138 182                                                     <
+104 196 187                                                     <
+110 111 104                                                     <
+107 129 167                                                     <
+175 158 122                                                     <
+179 116 140                                                     <
+138 144 109                                                     <
+196 127 171                                                     <
+140 183 170                                                     <
+136 137 161                                                     <
+149 105 124                                                     <
+184 114 173                                                     <
+109 137 169                                                     <
+200 147 177                                                     <
+167 150 195                                                     <
+141 107 130                                                     <
+147 109 151                                                     <
+130 145 197                                                     <
+150 169 125                                                     <
+122 119 122                                                     <
+#end of instance                                                <
+                                                                <
+
+
+
+Test 9 grade: 0.5
+=======
+
+
+Able to compile without error/warning grade: 1/1
+
+Coding Style grade: 2/2
+=======
+
+
+Total grade: 10/10
+

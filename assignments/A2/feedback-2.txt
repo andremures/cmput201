@@ -1,0 +1,59 @@
+Grading TA: Alan Yong (yong@ualberta.ca)
+
+Assignment 3
+============
+
+Generating random instances
+---------------------------
+Great!
+
+1/1
+
+Ratio calculation
+---------------------------
+I think your ratios are a bit off. You didn't provide for me a means
+of testing specific instance files, so I had to compare the ratios
+for the files you generated against a reference solution. They're a bit off.
+
+1/2
+
+average_m_n
+---------------------------
+Poor choice of angle for the 3D plot ;)
+
+I think it's fine.
+
+2/2
+
+average_m
+----------------------------
+I think this is pretty good.
+
+1/1
+
+average_n
+----------------------------
+Looks good.
+
+1/1
+
+Average ratio
+----------------------------
+Good.
+
+1/1
+
+Running time
+----------------------------
+Good. Pretty quick running time!
+
+1/1
+
+Style
+-----------------------------
+Great! I like how things are split into multiple files nicely.
+
+1/1
+
+
+Grade: 9/10

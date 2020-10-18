@@ -1,0 +1,39 @@
+Testing Case 1:
+
+> ./myprogram -i
+
+Input:
+
+Enter the number of machines in stage 1: 5
+Enter the number of jobs: 10
+Enter in each line the processing times for a job:
+6 26 24
+3 22 18
+2 22 12
+17 27 10
+28 27 15
+10 10 19
+24 27 31
+17 9 1
+19 6 5
+26 17 3
+
+Output:
+
+#instances5_10_1.txt
+#number of stage 1 machines
+5
+#number of jobs
+10
+#job processing times
+6 26 24
+3 22 18
+2 22 12
+17 27 10
+28 27 15
+10 10 19
+24 27 31
+17 9 1
+19 6 5
+26 17 3
+#end of instance

@@ -1,0 +1,9 @@
+Testing Case 4:
+
+> ./myprogram -i
+
+Enter the number of machines in stage 1: %^&fhw
+
+Output:
+
+Error in reading the instance!

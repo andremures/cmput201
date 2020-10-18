@@ -1,0 +1,15 @@
+Testing Case 3:
+
+> ./myprogram -i
+
+Input:
+
+Enter the number of machines in stage 1: 2
+Enter the number of jobs: 10
+Enter in each line the processing times for a job:
+10 20 30
+acefki
+
+Output:
+
+Error in reading the instance!
