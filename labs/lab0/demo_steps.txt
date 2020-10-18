@@ -1,0 +1,17 @@
+Demo steps:
+
+1. Show the contents of ls_com.txt                   "cat ls_com.txt"
+
+2. Generate the ls_out.txt file                      "-ls l > ls_out.txt"
+
+3. Compile hello.c in an executable called hello     "gcc -std=c99 -Wall -o hello hello.c"
+
+4. Run hello                                         "./hello"
+
+5. Create tar file containg required files           "tar -cvf submit.tar hello.c ls_com.txt ls_out.txt"
+
+6. Create a test directory                           "mkdir test"
+
+7. Move tar file to test directory                   "mv submit.tar test"
+
+8. Untar file                                        "tar -xvf submit.tar"

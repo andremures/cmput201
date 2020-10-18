@@ -1,0 +1,15 @@
+total 24
+0 Applications
+0 Desktop
+0 Documents
+0 Downloads
+0 Library
+0 Movies
+0 Music
+0 Pictures
+0 Public
+0 PycharmProjects
+0 cmput
+8 maze_solve.py
+8 open_file
+8 quick.py
